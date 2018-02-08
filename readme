@@ -1,0 +1,5 @@
+Supervisor : Dr. Arvind Kumar Gupta, Associate Professor.
+
+Indian Institute of Technology, Ropar, India
+
+Abstract :I worked on TASEP model. During my internship I was given a task to study and understand what the TASEP model is. I studied about the model through various research papers and also came to know about the applications of the model in real life problem. The model is designed to calculate the the current density(particle density) in the two lanes depending on the various entry/exit rates of particles into the lanes and other factors. I build the model using MATLAB. The model involved the use of Monte Carlo simulations. I tried to vary the entry/exit rates of particles into the lanes and accordingly plot the various phase diagrams and tried to infer what is actually happening on varying the rates.
